@@ -36,9 +36,9 @@ This project showcases a premium cake business website with beautiful UI section
 
 ![Cakes Menu](screenshots/cakes.png)
 
-### ⭐ Reviews Section
+### 📦 Order & Delivery Process
 
-![Reviews](screenshots/reviews.png)
+![Reviews](screenshots/process.png)
 
 ### 📱 Mobile Responsive View
 
@@ -55,7 +55,7 @@ Food-for-Foodies/
 ├── screenshots/
 │   ├── hero.png
 │   ├── cakes.png
-│   ├── reviews.png
+│   ├── process.png
 │   └── mobile.png
 └── README.md
 
